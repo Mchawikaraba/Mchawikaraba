@@ -1,5 +1,5 @@
 <p align="center"><img src="assets/art.jpg" width="1000"> </p>
-<p align="center"># Hey, I'm Daniel 👋#</p>
+<p align="center">## Hey, I'm Daniel 👋</p>
 
 Founder & builder based in Tanzania. I make software that helps people think clearer, work better, and stay accountable to what actually matters.
 
