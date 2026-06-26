@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/art.jpg"> </p>
+<p align="center"><img src="assets/art.jpg" width="100"> </p>
 # Hey, I'm Daniel 👋
 
 Founder & builder based in Tanzania. I make software that helps people think clearer, work better, and stay accountable to what actually matters.
